@@ -1,1 +1,9 @@
 /* Add custom styles here */
+
+.has-tabbar .page-content {
+    padding-bottom: 72px;
+}
+
+.has-tabbar.navbar-fixed .page-content {
+    padding-top: 56px;
+}
